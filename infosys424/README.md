@@ -1,8 +1,8 @@
 # IS 424 Git Practice
 
 ## Team
-- Student A: 
-- Student B: 
+- Student A: Renzo Widjaja
+- Student B: Max Endler
 ## Branch Work
 Describe what you changed on the feature branch.
 
